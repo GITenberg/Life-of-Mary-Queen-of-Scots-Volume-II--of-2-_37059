@@ -1,0 +1,26 @@
+_repo: Life-of-Mary-Queen-of-Scots-Volume-II--of-2-_37059
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Bell, Henry Glassford
+    birthdate: 1803
+    deathdate: 1874
+    gutenberg_agent_id: '38621'
+    url: http://www.gutenberg.org/2009/agents/38621
+description: ''
+gutenberg_issued: '2011-08-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37059'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mary, Queen of Scots, 1542-1587'
+- !lcc 'DA'
+title: Life of Mary Queen of Scots, Volume 2 (of 2)
+url: http://www.gutenberg.org/ebooks/37059
